@@ -1,0 +1,28 @@
+.note {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.note-content {
+  margin-right: 5px;
+}
+
+.error-notification {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.success-notification {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
